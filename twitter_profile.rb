@@ -1,0 +1,8 @@
+display_name = "Ryan Kulp"
+handle = "ryanckulp"
+biography = "burning the boats at fomo.com"
+location_full = "Seoul, Korea"
+external_link = "https://ryanckulp.com"
+created_at = "2009-11-05"
+profile_photo_url = "https://yt3.ggpht.com/ytc/AAUvwnhIacFVz93ei80egdjO3wivlrzNxx4W0iNSUUuq7Q=s900-c-k-c0x00ffffff-no-rj"
+profile_portrait_url = "https://s3.eu-west-1.amazonaws.com/blog.omniconvert.com-media/blog/wp-content/uploads/2019/12/12194445/omni-Ryan-Kulp-1280x720-1248x703.jpg"
